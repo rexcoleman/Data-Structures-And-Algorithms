@@ -24,6 +24,8 @@ Data Structures and Algorithms exercises are a critical part of honing your prob
 
 *# Coding Exercises Completed:** 33
 
+**Link to Coding Exercises** [Course 2 Coding Exercises](https://github.com/rexcoleman/Data-Structures-And-Algorithms/tree/main/Course_2_Algorithms_And_Data_Structures_In_Pyton)
+
 **Link to Course:** [Data Structures and Algorithms in Python](https://www.udemy.com/course/algorithms-and-data-structures-in-python/)
 
 ### Course 3: Data Structures and Algorithms Top Interview 150 + Data Structures and Algorithms Top Interview 75 + Data Structures and Algorithms Premium Algo 100
@@ -31,6 +33,8 @@ Data Structures and Algorithms exercises are a critical part of honing your prob
 **Description:** Comprehensive set of problems from Data Structures and Algorithms's top interview questions and premium algorithms.
 
 **# Coding Exercises Completed:** 580
+
+**Link to Coding Exercises** [Course 3 Coding Exercises](https://github.com/rexcoleman/Data-Structures-And-Algorithms/tree/main/Course_3_LeetCode_Top150_Top75_PremiumAlgorighms)
 
 **Links to Courses:**
 - [Top Interview 150](https://Data Structures and Algorithms.com/studyplan/top-interview-150/)
