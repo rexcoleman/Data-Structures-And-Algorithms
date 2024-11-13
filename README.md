@@ -14,6 +14,8 @@ Data Structures and Algorithms exercises are a critical part of honing your prob
 
 *# Coding Exercises Completed:** 106
 
+**Link to Coding Exercises** [Course 1 Coding Exercises](https://github.com/rexcoleman/Data-Structures-And-Algorithms/tree/main/Course_1_Python_Data_Structures_%26_Algorithms%2BLEETCODE_Exercises)
+
 **Link to Course:** [DSA for Cracking the Coding Interview](https://www.udemy.com/course/data-structures-algorithms-python/)
 
 ### Course 2: Implementing Data Structures, Graph Algorithms, and Sorting Algorithms
